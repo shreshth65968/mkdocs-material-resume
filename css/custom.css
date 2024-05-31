@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+nav.md-nav__menu li.md-nav__item a[href$="index.html"] {
+    display: none;
+}
+
+h1{
+    display:none;
+}
+
+.md-nav--secondary{
+    display:none;
+}
+
+.md-header__inner{
+    display:none;
+}
+
+.md-nav__title{
+    display:none;
+}
+
+hr {
+    border: 0;
+    height: 0.5px;               
+    background: #000;          
+    margin: 5px 0;            
+}
+
+#hello{
+    margin-left:100%;
+}
+
+h3{
+    
+    font-family: "Noto Sans", sans-serif;
+    color: blueviolet;
+    font-weight:900;
+    font-size: 21px;
+}
+
+span{
+    display:inline-block;
+    font-family: "Noto Sans", sans-serif;
+    color: black;
+    font-size: 16px;
+
+
+}
+p,ul{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 14px;
+}
+
+
+body{
+    background-image: url('layered-waves-haikei.svg');
+    background-size: 100% auto;
+    background-repeat: repeat;
+    
+    
+
+}
+ 
+
+
+
+
+
+
